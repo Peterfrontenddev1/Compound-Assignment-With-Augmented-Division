@@ -14,3 +14,5 @@ Convert the assignments for a, b, and c to use the /= operator.
 a should equal 4.
 
 b should equal 27.
+c should equal 3.
+
