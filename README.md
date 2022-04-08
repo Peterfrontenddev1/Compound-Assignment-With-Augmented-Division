@@ -2,3 +2,4 @@
 
 The /= operator divides a variable by another number.
 
+myVar = myVar / 5;
