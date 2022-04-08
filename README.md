@@ -17,6 +17,7 @@ a should equal 4.
 b should equal 27.
 
 c should equal 3.
+
 You should use the /= operator for each variable.
 You should not modify the code above the specified comment.
 let a = 48;
