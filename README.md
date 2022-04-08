@@ -23,3 +23,5 @@ You should use the /= operator for each variable.
 You should not modify the code above the specified comment.
 
 let a = 48;
+let b = 108;
+let c = 33;
